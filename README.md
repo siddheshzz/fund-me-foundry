@@ -1,6 +1,6 @@
-## Foundry
+## Fund Me Foundry
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+**This is a crowd sourcing app.**
 
 Foundry consists of:
 
@@ -14,9 +14,11 @@ To build the project:-
 
 make build
 
-To deploy on sepolia
+To deploy on sepolia:-
+
 make deploy-sepolia
 
+You can even run anvil and test
 ## Documentation
 
 https://book.getfoundry.sh/
