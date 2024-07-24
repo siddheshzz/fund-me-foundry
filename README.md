@@ -9,6 +9,14 @@ Foundry consists of:
 -   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
 -   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
 
+## GETTING STARTED
+To build the project:-
+
+make build
+
+To deploy on sepolia
+make deploy-sepolia
+
 ## Documentation
 
 https://book.getfoundry.sh/
